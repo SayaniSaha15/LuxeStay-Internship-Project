@@ -1,0 +1,24 @@
+Guest Registration
+↓
+Email Verification
+↓
+Phone Verification
+↓
+Property Search
+↓
+Property Details
+↓
+Booking
+↓
+Payment
+↓
+Booking Confirmation
+
+
+Owner Login
+↓
+View Booking Requests
+↓
+Approve/Reject Requests
+↓
+Monitor Analytics
