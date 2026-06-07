@@ -1,0 +1,6 @@
+Project Overview
+
+LuxeStay Villas manages ultra-luxury villas owned by celebrities, politicians, and elite individuals. Current
+platforms like Airbnb fail to meet their expectations due to poor privacy controls, slow booking approvals,
+and lack of exclusivity. This research focuses on understanding the pain points of elite property owners and
+ultra-affluent guests to design a premium, secure, and fast digital booking experience.
